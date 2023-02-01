@@ -1,0 +1,24 @@
+{
+  "name": "code-challenges",
+  "version": "1.0.0",
+  "description": "A repository to upload mi solutions to code challenges that i have solved usually in javascript/typescript :zap:",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "start": "ts-node adventjs/2022/chirstmasGiftWrapping.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorandresp/code-challenges.git"
+  },
+  "author": "Víctor Andrés Ponce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorandresp/code-challenges/issues"
+  },
+  "homepage": "https://github.com/victorandresp/code-challenges#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1"
+  }
+}
