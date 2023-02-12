@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon",
-    "start": "ts-node adventjs/2022/chirstmasGiftWrapping.ts"
+    "start": "ts-node adventjs/2022/Challenge#3/index.ts"
   },
   "repository": {
     "type": "git",
